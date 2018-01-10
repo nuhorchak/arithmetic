@@ -1,2 +1,2 @@
 
-multiply <- function(x,y) x*y
+mult <- function(x,y) x*y
